@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+
+ <g>
+  <title>Layer 1</title>
+  <image x="156" y="149" width="48" height="48" id="svg_3" xlink:href="images/"/>
+  <text fill="#007f7f" stroke="#000000" stroke-width="0" x="136" y="137" id="svg_8" font-size="24" font-family="Serif" text-anchor="middle" xml:space="preserve" transform="rotate(25.6127, 334.84, 226.58) matrix(10.3685, 0, 0, 8.04765, -1081.05, -808.728)" font-weight="bold" font-style="italic">JLC</text>
+  <text fill="#003f7f" stroke="#000000" stroke-width="0" x="136.096446" y="138.615377" font-size="24" font-family="Serif" text-anchor="middle" xml:space="preserve" transform="rotate(25.6127, 335.84, 239.579) matrix(10.3685, 0, 0, 8.04765, -1081.05, -808.728)" font-weight="bold" font-style="italic" id="svg_9">JLC</text>
+  <path id="svg_6" d="m128,102c437,230 105,183 13,241c-92,58 331,-160 323,-126c-8,34 -232,30 -247,11c-15,-19 348,105 348,105" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#ffffff" fill="#b5c9dd"/>
+ </g>
+</svg>
